@@ -3,7 +3,7 @@ using nanespace std;
 
 int main() {
 	cout << "Hello, world!";
-
+	cout << "cat";
 	return 0;
 }
 
